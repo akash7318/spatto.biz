@@ -1,0 +1,66 @@
+[10-Feb-2022 13:56:43 UTC] PHP Warning:  require(/home/alteacsh/public_html/spatto.biz/config.php): failed to open stream: No such file or directory in /home/alteacsh/public_html/spatto.biz/submit.php on line 4
+[10-Feb-2022 13:56:43 UTC] PHP Warning:  require(/home/alteacsh/public_html/spatto.biz/config.php): failed to open stream: No such file or directory in /home/alteacsh/public_html/spatto.biz/submit.php on line 4
+[10-Feb-2022 13:56:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/alteacsh/public_html/spatto.biz/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/alteacsh/public_html/spatto.biz/submit.php on line 4
+[10-Feb-2022 13:56:45 UTC] PHP Warning:  require(/home/alteacsh/public_html/spatto.biz/config.php): failed to open stream: No such file or directory in /home/alteacsh/public_html/spatto.biz/login.php on line 5
+[10-Feb-2022 13:56:45 UTC] PHP Warning:  require(/home/alteacsh/public_html/spatto.biz/config.php): failed to open stream: No such file or directory in /home/alteacsh/public_html/spatto.biz/login.php on line 5
+[10-Feb-2022 13:56:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/alteacsh/public_html/spatto.biz/config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/alteacsh/public_html/spatto.biz/login.php on line 5
+[29-Apr-2022 13:28:28 UTC] PHP Notice:  Undefined index: sponsor in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 11
+[29-Apr-2022 13:28:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 195
+[29-Apr-2022 13:28:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 205
+[29-Apr-2022 13:28:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 236
+[29-Apr-2022 13:28:28 UTC] PHP Notice:  Undefined variable: username in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 381
+[29-Apr-2022 13:29:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 195
+[29-Apr-2022 13:29:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 205
+[29-Apr-2022 13:29:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 236
+[29-Apr-2022 13:29:23 UTC] PHP Notice:  Undefined variable: username in /home/alteacsh/public_html/spatto.biz/agent/submit.php on line 381
+[29-Apr-2022 13:41:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[29-Apr-2022 13:43:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[29-Apr-2022 13:43:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 07:12:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 07:52:22 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/alteacsh/public_html/spatto.biz/agent/logout.php on line 11
+[01-May-2022 08:06:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:12:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:12:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:26:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:26:41 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/alteacsh/public_html/spatto.biz/agent/logout.php on line 11
+[01-May-2022 08:27:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:27:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:27:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[01-May-2022 08:28:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:08:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:14:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alteacsh/public_html/spatto.biz/agent/agent_stores.php on line 162
+[16-May-2022 04:14:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:16:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:19:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:19:31 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/update-identity.php on line 13
+[16-May-2022 04:19:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:19:39 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/update-pan.php on line 13
+[16-May-2022 04:35:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:35:16 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/update-pan.php on line 13
+[16-May-2022 04:35:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:35:20 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/update-identity.php on line 13
+[16-May-2022 04:35:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 04:58:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:00:45 UTC] PHP Notice:  Undefined index: panimage in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 36
+[16-May-2022 05:00:45 UTC] PHP Notice:  Undefined index: pancard in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 37
+[16-May-2022 05:00:45 UTC] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 43
+[16-May-2022 05:00:45 UTC] PHP Notice:  Undefined index: panimage in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 52
+[16-May-2022 05:00:45 UTC] PHP Notice:  Undefined index: panimage in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 53
+[16-May-2022 05:00:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:00:45 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/update-pan.php on line 13
+[16-May-2022 05:00:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:01:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:02:28 UTC] PHP Notice:  Undefined variable: sid in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 45
+[16-May-2022 05:02:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:03:55 UTC] PHP Notice:  Undefined variable: sid in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 45
+[16-May-2022 05:03:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:04:39 UTC] PHP Notice:  Undefined variable: sid in /home/alteacsh/public_html/spatto.biz/agent/submit-store-photo.php on line 45
+[16-May-2022 05:05:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[16-May-2022 05:06:10 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/alteacsh/public_html/spatto.biz/agent/logout.php on line 11
+[17-May-2022 13:00:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[17-May-2022 13:00:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[17-May-2022 13:00:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[17-May-2022 13:00:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[17-May-2022 13:01:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[17-May-2022 13:02:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/agent/header.php on line 277
+[17-May-2022 13:02:30 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/alteacsh/public_html/spatto.biz/agent/logout.php on line 11

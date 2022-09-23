@@ -1,0 +1,5 @@
+[20-May-2022 09:38:09 UTC] PHP Notice:  Undefined variable: mid in /home/alteacsh/public_html/spatto.biz/demo/header.php on line 49
+[20-May-2022 09:38:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/demo/header.php on line 277
+[20-May-2022 09:38:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/demo/dashboard.php on line 240
+[20-May-2022 09:38:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/alteacsh/public_html/spatto.biz/demo/dashboard.php on line 350
+[20-May-2022 09:39:00 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/alteacsh/public_html/spatto.biz/demo/logout.php on line 11
