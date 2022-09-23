@@ -232,7 +232,7 @@ $total_user = substr($user,2);
                                     <i class="flaticon-review"></i>
                                 </div>
                                 <div class="success-content">
-                                    <span class="count-text" data-speed="2500" data-stop="<?=$total_user?>">0</span>
+                                    <span class="count-text" data-speed="2500" data-stop="<?php echo $total_user?>">0</span>
                                     <p>Regular Customer</p>
                                 </div>
                             </div>
